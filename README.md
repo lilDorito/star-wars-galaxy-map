@@ -1,7 +1,7 @@
 # Star Wars Galaxy Map
 
 ## Overview:
-This project is a Star Wars Galaxy Map (of Navigational Archive) built with React. It allows users to explore various star systems from the Star Wars universe, displaying their locations and info in a visually engaging way.
+This project is a Star Wars Galaxy Map (or Navigational Archive) built with React. It allows users to explore various star systems from the Star Wars universe, displaying their locations and info in a visually engaging way.
 
 ## Features:
 - Interactive map displaying star systems and galaxy regions.
@@ -30,26 +30,27 @@ Make sure you have the following installed on your system:
 ### Installation:
 1. First, clone the repository:
 
-```
+```bash
 git clone https://github.com/your-username/star-wars-galaxy-map.git
 ```
 
 2. Then, navigate into the project directory:
 
-```
+```bash
 cd star-wars-galaxy-map
 ```
 
 3. Install dependencies:
 ```bash
 npm install
-npm start
+# or
+yarn install
 ```
 
 ### Running the app:
 
 1. Start the development server:
-```
+```bash
 npm start
 //or
 yarn start
