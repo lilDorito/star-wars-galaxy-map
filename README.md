@@ -14,19 +14,19 @@ This project is a Star Wars Galaxy Map (or Navigational Archive) built with Reac
 - Survey section where you can choose you faction, system, and rank.
 
 ## Technologies Used:
-- React
-- JavaScript (ES6+)
-- JSON (for systems data)
-- Tailwind CSS
-- Git & GitHub
+- **React**
+- **JavaScript** (ES6+)
+- **JSON** (for systems data)
+- **Tailwind CSS**
+- **Git & GitHub**
 
 ## Getting Started:
 
 ### Prerequisites:
 Make sure you have the following installed on your system:
 
-- Node.js (v14 or higher recommended)
-- npm or yarn
+- **Node.js** (v14 or higher recommended)
+- **npm** or **yarn**
 
 ### Installation:
 1. First, clone the repository:
@@ -60,4 +60,4 @@ yarn start
 2. Open http://localhost:3000 in your browser to view the app.
 
 ## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the **MIT License**. See the LICENSE file for details.
