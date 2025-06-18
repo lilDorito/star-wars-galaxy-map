@@ -16,8 +16,9 @@ This project is a Star Wars Galaxy Map (or Navigational Archive) built with Reac
 ## Technologies Used:
 - React
 - JavaScript (ES6+)
-- CSS / Tailwind CSS
-- Git
+- JSON (for systems data)
+- Tailwind CSS
+- Git & GitHub
 
 ## Getting Started:
 
@@ -31,7 +32,7 @@ Make sure you have the following installed on your system:
 1. First, clone the repository:
 
 ```bash
-git clone https://github.com/your-username/star-wars-galaxy-map.git
+git clone https://github.com/lilDorito/star-wars-galaxy-map.git
 ```
 
 2. Then, navigate into the project directory:
@@ -52,7 +53,7 @@ yarn install
 1. Start the development server:
 ```bash
 npm start
-//or
+# or
 yarn start
 ```
 
