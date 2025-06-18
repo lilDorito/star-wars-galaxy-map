@@ -30,25 +30,31 @@ Make sure you have the following installed on your system:
 ### Installation:
 - 1. First, clone the repository:
 
-> git clone https://github.com/your-username/star-wars-galaxy-map.git
+```
+git clone https://github.com/your-username/star-wars-galaxy-map.git
+```
 
 - 2. Then, navigate into the project directory:
 
-> cd star-wars-galaxy-map
+```
+cd star-wars-galaxy-map
+```
 
 - 3. Install dependencies:
-
-> npm install
-//or
-> yarn install
+```
+npm install
+// or
+yarn install
+```
 
 ### Running the app:
 
 - 1. Start the development server:
-
-> npm start
+```
+npm start
 //or
-> yarn start
+yarn start
+```
 
 - 2. Open http://localhost:3000 in your browser to view the app.
 
