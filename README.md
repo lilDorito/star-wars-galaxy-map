@@ -61,3 +61,7 @@ yarn start
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/lilDorito/star-wars-galaxy-map/blob/main/LICENSE) file for details.
+
+## Sources
+- Systems data: [Wookieepedia](https://starwars.fandom.com/wiki/Main_Page)
+- Map and region/system positions: [FlowingData](https://flowingdata.com/2025/01/03/star-wars-galaxy-map/)
