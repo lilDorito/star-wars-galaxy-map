@@ -28,31 +28,31 @@ Make sure you have the following installed on your system:
 - npm or yarn
 
 ### Installation:
-- 1. First, clone the repository:
+1. First, clone the repository:
 
 ```
 git clone https://github.com/your-username/star-wars-galaxy-map.git
 ```
 
-- 2. Then, navigate into the project directory:
+2. Then, navigate into the project directory:
 
 ```
 cd star-wars-galaxy-map
 ```
 
-- 3. Install dependencies:
-<pre> ```bash npm install npm start ``` </pre>
+3. Install dependencies:
+```bash npm install npm start ```
 
 ### Running the app:
 
-- 1. Start the development server:
+1. Start the development server:
 ```
 npm start
 //or
 yarn start
 ```
 
-- 2. Open http://localhost:3000 in your browser to view the app.
+2. Open http://localhost:3000 in your browser to view the app.
 
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for details.
