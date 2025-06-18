@@ -41,11 +41,7 @@ cd star-wars-galaxy-map
 ```
 
 - 3. Install dependencies:
-```
-npm install
-// or
-yarn install
-```
+<pre> ```bash npm install npm start ``` </pre>
 
 ### Running the app:
 
