@@ -60,4 +60,4 @@ yarn start
 2. Open http://localhost:3000 in your browser to view the app.
 
 ## License:
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/lilDorito/star-wars-galaxy-map/blob/main/LICENSE) file for details.
