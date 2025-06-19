@@ -18,6 +18,7 @@ This project is a Star Wars Galaxy Map (or Navigational Archive) built with Reac
 - **JavaScript** (ES6+)
 - **JSON** (for systems data)
 - **Tailwind CSS**
+- **Bootstrap**
 - **Git & GitHub**
 
 ## Getting Started
