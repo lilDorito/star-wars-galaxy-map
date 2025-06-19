@@ -585,7 +585,7 @@ const StarWarsGalaxyMap = () => {
                     {/* Region Shapes */}
                     <div className="absolute inset-0 flex items-center justify-center bg-opacity-80">
                         <div className="absolute top-1/2 left-1/2 w-[43rem] h-[24rem] transform -translate-x-1/2 -translate-y-1/2 bg-blue-950/40 border backdrop-blur-md" style={{ borderRadius: '50%' }}></div>
-                        <div className="absolute top-[50%] left-[22%] w-[12rem] h-[16rem] transform -translate-x-1/2 -translate-y-1/2 bg-gray-900/100 border border-2 border-black" style={{ borderRadius: '50%' }}></div>
+                        <div className="absolute top-[50%] left-[22%] w-[12rem] h-[16rem] transform -translate-x-1/2 -translate-y-1/2 bg-gray-900/100 border-2 border-black" style={{ borderRadius: '50%' }}></div>
                         <div className="absolute left-1/2 top-1/2 w-28 h-14 transform -translate-x-1/2 -translate-y-1/2 border opacity-40 bg-white/60 backdrop-blur-sm" style={{ borderRadius: '50%' }}></div>
                         <div className="absolute left-[53%] top-1/2 w-56 h-36 transform -translate-x-1/2 -translate-y-1/2 border rounded-full opacity-35 bg-cyan-100/50 backdrop-blur-md" style={{ borderRadius: '50%' }}></div>
                         <div className="absolute left-[56%] top-1/2 w-80 h-56 transform -translate-x-1/2 -translate-y-1/2 border rounded-full opacity-30 bg-cyan-200/40 backdrop-blur-lg" style={{ borderRadius: '50%' }}></div>
@@ -886,7 +886,7 @@ const StarWarsGalaxyMap = () => {
                     </div>
 
                     <div>
-                      <label className="block mb-2 text-amber-200 mb-2">Your system:</label>
+                      <label className="block text-amber-200 mb-2">Your system:</label>
                         <CustomSelect
                           options={systemPositions}
                           placeholder="Choose a system"
