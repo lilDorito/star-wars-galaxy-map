@@ -20,7 +20,7 @@ This project is a Star Wars Galaxy Map (or Navigational Archive) built with Reac
 - **Tailwind CSS**
 - **Git & GitHub**
 
-## Getting Started:
+## Getting Started
 
 ### Prerequisites
 Make sure you have the following installed on your system:
