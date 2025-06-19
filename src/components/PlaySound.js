@@ -17,7 +17,7 @@ const useClickSound = (url = '', volume = 0, delayMs = 500) => {
       lastPlayedRef.current = now;
       const sound = audioRef.current;
       sound.currentTime = 0;
-      sound.play().catch(err => console.warn("Sound error:", err));
+      sound.play().catch(err => console.console.warn("Sound error:", err));
     }
   };
 
