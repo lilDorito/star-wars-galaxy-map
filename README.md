@@ -11,7 +11,7 @@ This project is a Star Wars Galaxy Map (or Navigational Archive) built with Reac
 - Audio-interactive UI and togglable background soundtrack.
 - Front-end log-in component (via username and password)
 - Quiz section with unique 10 questions about systems.
-- Survey section where you can choose you faction, system, and rank.
+- Survey section where you can choose your faction, system, and rank.
 
 ## Technologies Used
 - **React**
@@ -28,6 +28,23 @@ Make sure you have the following installed on your system:
 
 - **Node.js** (v14 or higher recommended)
 - **npm** or **yarn**
+
+#### To install Node.js:
+
+1. Go to [Download Node.js](https://nodejs.org/en/download) and choose your OS with npm/yarn.
+
+2. Check if everything was downloaded correctly:
+
+```bash
+node -v
+
+# for npm:
+npm -v
+
+# for yarn:
+corepack enable yarn
+yarn -v
+```
 
 ### Installation
 1. First, clone the repository:
